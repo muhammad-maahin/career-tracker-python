@@ -30,6 +30,15 @@ python main.py
 - storage.py → data handling
 - data.json → storage
 
+## API Endpoints
+
+GET /goals - Get all goals
+POST /goals - Add a new goal
+PUT /goals/{id} - Mark goal as complete
+DELETE /goals/{id} - Delete a goal
+
+Built using FastAPI.
+
 ## Author
 
 Muhammad Maahin

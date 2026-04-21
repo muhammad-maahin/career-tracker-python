@@ -1,48 +1,7 @@
 [
     {
-        "title": "Learn Python",
-        "completed": true
-    },
-    {
-        "title": "get internship",
-        "completed": false
-    },
-    {
-        "title": "complete project",
-        "completed": false,
-        "created_at": "2026-03-28 02:10"
-    },
-    {
-        "title": "recommendation letter",
-        "completed": false,
-        "created_at": "2026-04-18 13:35"
-    },
-    {
-        "title": "charcter certificate",
-        "completed": false,
-        "created_at": "2026-04-18 13:36"
-    },
-    {
-        "title": "degree",
-        "completed": false,
-        "created_at": "2026-04-18 13:36"
-    },
-    {
-        "title": "degree",
-        "completed": false,
-        "created_at": "2026-04-18 13:36"
-    },
-    {
-        "title": "certificate",
-        "completed": false,
-        "created_at": "2026-04-18 13:37"
-    },
-    {
+        "id": 1,
         "title": "Learn FastAPI",
-        "completed": false
-    },
-    {
-        "title": "Build Portfolio",
-        "completed": false
+        "completed": true
     }
 ]
